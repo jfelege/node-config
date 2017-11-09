@@ -1,7 +1,7 @@
 1.28.0 / 2017-11-07
 ===================
 
-  * allow overrides of `NODE_ENV` with `NODE_CONFIG_ENV` - jfelge
+  * allow overrides of `NODE_ENV` with `NODE_CONFIG_ENV` - jfelege
 
 1.27.0 / 2017-10-17
 ===================
@@ -96,7 +96,7 @@
 1.19.0 / 2016-01-08
 ===================
 
-  * Resolve defered values in predictable order for consistent results. 
+  * Resolve defered values in predictable order for consistent results.
     Fixes #265 @elliotttf @markstos
 
 1.18.0 / 2015-11-17
@@ -108,11 +108,11 @@
 ===================
 
   * Patch release for regex bugfix
- 
+
 1.17.0 / 2015-11-17
 ===================
 
-  * Update warning about missing configuration files to mention how to disable the warning #245 @markstos 
+  * Update warning about missing configuration files to mention how to disable the warning #245 @markstos
   * Upgrade to run CI with travis containers @lorenwest
   * Fixed bug with comments and inline json @elliotttf
 
@@ -203,7 +203,7 @@
 1.5.0 / 2014-10-20
 ==================
 
-  * Added support for .json5 config files (@bertrandom) 
+  * Added support for .json5 config files (@bertrandom)
 
 1.4.0 / 2014-10-16
 ==================
